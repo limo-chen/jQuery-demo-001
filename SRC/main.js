@@ -1,0 +1,3 @@
+jQuery(".test");
+
+$(".test");

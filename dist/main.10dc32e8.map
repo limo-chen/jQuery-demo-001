@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["jQuery","$"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAAA,OAAO,OAAP;;AAEAC,EAAE,OAAF","file":"main.10dc32e8.map","sourceRoot":"..\\src","sourcesContent":["jQuery(\".test\");\r\n\r\n$(\".test\");\r\n"]}
